@@ -1,0 +1,13 @@
+# Data_visualization-on-iris.csv-data-set
+
+**In this data set ,five column and 500 rows.
+ 
+ columns are....
+    ---Sepal.Length
+    ---Sepal.Width
+    ---Petal.Length
+    ---Petal.Width	
+    ---Species
+    
+ **Sepal.Length,Sepal.Width,Petal.Length,Petal.Width are integer data type.and
+ --Species are string data type contains like setosa,versicolor,virginica.
